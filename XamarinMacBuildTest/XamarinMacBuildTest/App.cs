@@ -21,7 +21,7 @@ namespace XamarinMacBuildTest
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "Welcome to Xamarin Mac Build Test!"
                         }
                     }
                 }
